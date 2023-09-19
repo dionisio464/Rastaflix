@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(49, 56, 49) ;
+}
+
+.all{
+    display: flex;
+    justify-content: center;
+    padding-top: 75px;
+
+}
